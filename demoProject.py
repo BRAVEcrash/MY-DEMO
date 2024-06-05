@@ -30,4 +30,5 @@ def number_guessing_game():
 
 # Run the game
 number_guessing_game()
+# DO NOT RUN
 # RUN GAME
