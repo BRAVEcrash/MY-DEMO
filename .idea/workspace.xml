@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4ac8f7c-4e33-402e-8dae-25c29f4652ff" name="Changes" comment="JUST A BOOLS*** GAME" />
+    <list default="true" id="c4ac8f7c-4e33-402e-8dae-25c29f4652ff" name="Changes" comment="JUST A BOOLS*** GAME">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +60,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/Документы/PY/MY-DEMO",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -90,7 +92,8 @@
       <workItem from="1717602605675" duration="694000" />
       <workItem from="1717603698827" duration="135000" />
       <workItem from="1717603925207" duration="182000" />
-      <workItem from="1717649477287" duration="379000" />
+      <workItem from="1717649477287" duration="570000" />
+      <workItem from="1717687140071" duration="76000" />
     </task>
     <task id="LOCAL-00001" summary="JUST A BOOLS*** GAME">
       <option name="closed" value="true" />
